@@ -1,5 +1,8 @@
 <h1>List作成</h1>
 
+	<h2><%= link_to "リスト一覧", lists_path %>
+
+	</h2>
 	<%= form_with scope: :list,url:lists_path, local:true do |form| %>
 		<p><%= form.label:name %></p>
 		<p><%= form.text_field :name %></p>
