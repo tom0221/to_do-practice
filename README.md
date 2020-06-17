@@ -5,6 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
+*参考サイト
+https://skillhub.jp/courses/160/lessons/922
+
 * Ruby version
 
 * System dependencies
